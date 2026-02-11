@@ -1,0 +1,11 @@
+# Ignore Terraform files
+*.tfstate
+*.tfstate.*
+*.terraform/
+*.tfvars
+
+# Ignore crash logs
+crash.log
+
+# Ignore other temporary files
+*.log
