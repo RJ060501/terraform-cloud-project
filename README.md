@@ -15,7 +15,7 @@ terraform apply
 ```
 
 ## Resources Created
-- Single t2.micro EC2 instance in us-west-2
+- Single t3.micro EC2 instance in us-east-1
 - Outputs the public IP address
 
 ## Cleanup
